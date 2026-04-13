@@ -11,4 +11,4 @@ CREATE TABLE IF NOT EXISTS student (
 INSERT INTO student (student_id, student_name, age) VALUES
 (1, 'Alice', 20),
 (2, 'Bob', 22),
-(3, 'Charlie', 21);
+(3, 'Charlie', 21); 
